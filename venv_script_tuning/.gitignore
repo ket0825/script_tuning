@@ -1,0 +1,13 @@
+Lib/
+Scripts/
+pdf/
+py-hanspell/
+share/
+*.cfg
+*.csv
+*.json
+
+*.txt
+*.docx
+*.xlsx
+*.pyc

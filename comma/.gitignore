@@ -1,0 +1,10 @@
+Lib/
+Scripts/
+.vscode/
+training_file/
+*.env
+data/
+*.pyc
+*.txt
+*.docx
+*.cfg
